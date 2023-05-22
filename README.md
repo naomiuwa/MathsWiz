@@ -1,0 +1,3 @@
+# MathsWiz
+
+This project is aimed at helping children confidently learn and practise their multiplication skills. Our shared experience working in schools and homeschooling, inspired us to build this app to tackle the problem of... 
