@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <CardSetup />
-      <h1>Vite + React</h1>
+     
     </>
   );
 }
